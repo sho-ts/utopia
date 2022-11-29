@@ -1,4 +1,4 @@
-import type { Post } from '@/modules/post/entity/Post';
+import type { Post } from '@/modules/post/entities/Post';
 import PostsItem from './Posts.Item';
 import { Stack } from '@mantine/core';
 

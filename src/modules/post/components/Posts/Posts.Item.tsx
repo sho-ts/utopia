@@ -1,4 +1,4 @@
-import type { Post } from '@/modules/post/entity/Post';
+import type { Post } from '@/modules/post/entities/Post';
 import { Text, Paper, Avatar, Flex, Stack, ActionIcon } from '@mantine/core';
 import { BsReply } from 'react-icons/bs';
 import { AiOutlineLike } from 'react-icons/ai';

@@ -1,4 +1,4 @@
-import type { User } from '@/share/entity/User';
+import type { User } from '@/share/entities/User';
 
 export type Post = {
   postId: string;
